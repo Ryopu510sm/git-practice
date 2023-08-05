@@ -1,0 +1,58 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+/* 7月13日木曜日ここまで！*/
+
+header{
+  padding:50px 0;
+}
+
+.list{
+  padding: 20px;
+  font-size: 10px;
+}
+
+.list-b{
+  background-color: #ddd;
+}
+
+body{
+  width: 960px;
+  padding-bottom: 50px;
+}
+
+.box1{
+  display: flex;
+  padding-bottom: 40px;
+}
+
+.box2{
+  display: flex;
+  padding-bottom: 40px;
+}
+
+.box3{
+  display: flex;
+  padding-bottom: 40px;
+}
+
+.box-o{
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+}
+
+.box-y{
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+}
+
+.box1-1{
+  padding-right: 5%;
+  padding-bottom: 40px;
+}
